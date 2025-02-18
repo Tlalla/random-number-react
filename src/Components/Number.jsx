@@ -9,5 +9,6 @@ const Number =()=>{
         <button className='getButton' onClick={showRandomNumber}> Get a number </button>
       <div className='number'>{randomNumber}</div></div>
     )
+    
 }
 export default Number;
